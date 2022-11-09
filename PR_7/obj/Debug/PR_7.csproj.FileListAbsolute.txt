@@ -1,0 +1,2 @@
+D:\Users\1210N-9\source\repos\PR_7\obj\Debug\PR_7.csproj.AssemblyReference.cache
+D:\Users\1210N-9\source\repos\PR_7\obj\Debug\PR_7.csproj.CoreCompileInputs.cache
