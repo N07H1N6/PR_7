@@ -1,0 +1,8 @@
+C:\Users\pavel\Documents\VS22\PR_7\bin\Debug\PR_76.exe.config
+C:\Users\pavel\Documents\VS22\PR_7\bin\Debug\PR_76.exe
+C:\Users\pavel\Documents\VS22\PR_7\bin\Debug\PR_76.pdb
+C:\Users\pavel\Documents\VS22\PR_7\obj\Debug\PR_76.csproj.AssemblyReference.cache
+C:\Users\pavel\Documents\VS22\PR_7\obj\Debug\PR_76.csproj.SuggestedBindingRedirects.cache
+C:\Users\pavel\Documents\VS22\PR_7\obj\Debug\PR_76.csproj.CoreCompileInputs.cache
+C:\Users\pavel\Documents\VS22\PR_7\obj\Debug\PR_76.exe
+C:\Users\pavel\Documents\VS22\PR_7\obj\Debug\PR_76.pdb
